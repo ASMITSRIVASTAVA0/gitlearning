@@ -1,2 +1,3 @@
 init app
 header style
+footer style

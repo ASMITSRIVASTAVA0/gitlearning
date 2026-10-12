@@ -2,3 +2,4 @@ init app
 header style
 footer style
 add search functionality
+search function
